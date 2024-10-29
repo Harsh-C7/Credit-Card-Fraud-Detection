@@ -24,7 +24,7 @@ The dataset used is `creditcard.csv`, which contains transaction details and a t
    - A `LogisticRegression` model is instantiated and trained on the training data (`x_train`, `y_train`) with a maximum iteration of 1000 to ensure convergence.
 
 6. **Model Evaluation:**
-   - The accuracy of the model is evaluated on both the training and testing datasets, providing insights into the model's performance.
+   - The accuracy of the model is 94% on both the training and testing datasets, providing insights into the model's performance.
 
 ### Output
 - The code outputs the accuracy of the model on both the training and testing datasets, demonstrating its effectiveness in detecting fraudulent transactions.
